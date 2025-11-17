@@ -1,0 +1,10 @@
+pip install nltk
+pip install demoji
+pip install deep_translator
+pip install vaderSentiment
+pip install sklearn
+pip install xgboost
+pip install lightgbm
+pip install spacy
+pip install pandas
+pip install matplotlib
